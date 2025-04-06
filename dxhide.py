@@ -1,5 +1,3 @@
-# Coded by ☠️ DXTR ☠️
-
 from random import choice, randint, shuffle
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
 from os.path import isfile, isdir
