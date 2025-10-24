@@ -118,7 +118,7 @@ text = '''
 ██████╔╝██╔╝ ██╗██║  ██║██║██████╔╝███████╗
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝ ╚══════╝
                                            
-Created by @DXpaTRick for @dxch4n
+Created by @shardulspy
 '''[1:]
 
 
